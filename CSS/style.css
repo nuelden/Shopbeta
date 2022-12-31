@@ -1,0 +1,399 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  width: 1537px;
+}
+.form-box {
+  width: 90%;
+  max-width: 450px;
+}
+
+.Sell{
+  width: 430px;
+  padding-left: 80px;
+  padding-top: 50px;
+}
+.Manage {
+  width: 430px;
+  transform: translate(550px,-423px);
+}
+.sax {
+  transform: translate(510px,-395px);
+  font-size: 28px;
+  padding-left: 40px;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+.fam {
+  padding-top: 30px;
+  padding-left: 82px;
+  font-size: 28px;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+.nice {
+  transform: translate(-550px,-880px);
+  font-family: 'Lobster Two', cursive;
+}
+.rich {
+  width: 450px;
+  transform: translate(100px,-750px);
+}
+.rest {
+  width: 450px;
+  transform: translate(80px,-950px);
+}
+.tall {
+  transform: translate(890px,-1050px);
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 20px;
+  font-weight: lighter;
+}
+.book {
+  transform: translate(750px,-1240px);
+  font-family: 'Lobster Two', cursive;
+  font-size: 35px;
+}
+.lite {
+  transform: translate(750px,-1190px);
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 20px;
+  font-weight: lighter;
+}
+.calm {
+  transform: translate(-575px,-1150px);
+  font-family: 'Lobster Two', cursive;
+}
+.rush {
+  transform: translate(-250px,-1130px);
+  font-size: 20px;
+  font-family: 'Frank Ruhl Libre', serif;
+  font-weight: lighter;
+}
+.cool {
+  transform: translate(900px,-850px);
+  width: 450px;
+}
+.car {
+  transform: translate(330px,-855px);
+  font-size: 20px;
+  font-family: 'Frank Ruhl Libre', serif;
+  font-weight: lighter;
+  padding-top: 20px;
+  line-height: 5px;
+}
+.mind {
+  transform: translate(980px,-1080px);
+  font-family: 'Lobster Two', cursive;
+  font-size: 30px;
+}
+.fast {
+  transform: translate(200px,-600px);
+  width: 430px;
+}
+.flow {
+  transform: translate(100px,-920px);
+  font-family: 'Lobster Two', cursive;
+}
+.fan {
+  transform: translate(430px,-880px);
+  font-size: 20px;
+  font-weight: lighter;
+}
+.bro {
+  transform: translate(-520px,-1000px);
+  font-family: 'Lobster Two', cursive;
+}
+.rise {
+  transform: translate(-200px,-980px);
+  font-size: 20px;
+  font-weight: lighter;
+}
+.dear {
+  font-size: 18px;
+  padding-top: 20px;
+  padding-left: 80px;
+  line-height: 2px;
+  font-weight: lighter;
+}
+.door {
+  width: 430px;
+  transform: translate(900px,-700px);
+}
+.race {
+  transform: translate(-550px,-850px);
+  font-size: 20px;
+  font-family: 'Frank Ruhl Libre', serif;
+  font-weight: lighter;
+  line-height: 5px;
+  padding-top: 20px;
+}
+.fly {
+  transform: translate(325px,-850px);
+  font-family: 'Frank Ruhl Libre', serif;
+}
+.drum {
+  transform: translate(493px,-388px);
+  padding-left: 60px;
+  font-family: 'Frank Ruhl Libre', serif;
+  font-weight: lighter;
+}
+.grace {
+  width: 430px;
+  transform: translate(900px,-550px);
+}
+.Grow {
+  width: 430px;
+  transform: translate(1020px,-822px);
+}
+.efe {
+  transform: translate(140px,-650px);
+  font-family: 'Playfair Display', serif;
+  font-size: 65px;
+}
+.benz {
+  transform: translate(500px,-650px);
+  font-size: 30px;
+  font-family: 'Arima Madurai', cursive;
+  font-weight: lighter;
+}
+.heading {
+  position: absolute;
+  top: 20px;
+  color: white;
+  padding-left: 50px;
+  font-family: 'Lobster Two', cursive;
+  font-size: 50px;
+}
+.Birthday {
+  position: absolute;
+  top: 180px;
+  padding-left: 470px;
+  color: white;
+  font-size: 80px;
+  font-family: 'Playfair Display', serif;
+}
+p {
+  position: absolute;
+  top: 288px;
+  padding-left: 450px;
+  color: white;
+  font-size: 22px;
+}
+.search-box {
+  transform: translate(500px,-620px);
+  padding-right: 200px;
+}
+.search-bar {
+  transform: translate(870px,-680px);
+}
+.search-flex {
+  transform: translate(750px,-1000px);
+}
+.search-double {
+  width: 250px;
+  padding: 10px 10px;
+  background-color: green;
+  font-size: 20px;
+  font-weight: bolder;
+  filter: brightness(200%);
+  border: none;
+}
+.search-par {
+  transform: translate(650px,-700px);
+}
+.search-found {
+  width: 250px;
+  border-radius: 30px;
+  padding: 15px 20px;
+  font-weight: bold;
+  font-size: 25px;
+  background-color: blue;
+  border: none;
+  filter: brightness(200%);
+}
+.search-text {
+  width: 300px;
+  padding: 20px 20px;
+  border-radius: 35px;
+  font-weight: lighter;
+  font-size: 20px;
+  border: none;
+}
+.search-location {
+  width: 180px;
+  padding: 20px 20px;
+  border: none;
+  border-radius: 35px;
+  font-weight: lighter;
+}
+.search-location:hover {
+  background-color: red;
+}
+h2 {
+  padding-left: 380px;
+  font-size: 50px;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+.big {
+line-height: 20px;
+transform: translate(-160px,-100px);
+color: black;
+font-weight: lighter;
+line-height: 25px;
+margin: 10px 0px;
+
+}
+.money {
+  transform: translate(-160px,-10px);
+  color: black;
+  font-weight: bold;
+  width: 600px;
+  height: 280px;
+}
+.pray {
+  transform: translate(-160px,290px);
+  color: black;
+  font-weight: bold;
+
+  width: 600px;
+  height: 280px;
+}
+.fat {
+  transform: translate(-180px,200px);
+  color: black;
+  font-weight: lighter;
+  margin: 10px 0px;
+
+
+}
+.cash {
+  transform: translate(-200px,500px);
+  color: black;
+  font-weight: lighter;
+  margin: 10px 0px;
+  line-height: 25px;
+
+}
+.Royce {
+  transform: translate(-180px,800px);
+  color: black;
+  font-weight: lighter;
+  line-height: 25px;
+  margin: 10px 0px;
+
+
+}
+.kiss {
+  width: 180px;
+  transform: translate(50px,280px);
+}
+.piece {
+  width: 180px;
+  transform: translate(70px,390px);
+}
+
+h1 {
+  padding-left: 700px;
+  padding-top: 50px;
+  font-family: 'Lobster Two', cursive;
+}
+.msg-container{
+  background-color: #D6E5FA;
+  height: 1300px;
+  transform: translate(1px,-850px);
+
+}
+.ride {
+  width: 180px;
+  transform: translate(100px,70px);
+
+}
+.flat {
+  width: 180px;
+  transform: translate(80px,150px);
+
+}
+.key {
+  transform: translate(-350px,600px);
+  color: black;
+  font-weight: bold;
+  display: inline-flex;
+  width: 600px;
+  height: 280px;
+}
+.joy {
+  transform: translate(-160px,880px);
+  color: black;
+  font-weight: bold;
+}
+.swiper{
+  width: 1000px;
+  height: fit-content;
+  transform: translate(-100px,-600px);
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.swiper-slide img{
+  width: 600px;
+}
+.chief {
+  transform: translate(-50px,450px);
+}
+.Hi {
+  transform: translate(500px,480px);
+  font-size: 30px;
+  right: 30px;
+  display: inline-flex;
+  width: 600px;
+  height: 280px;
+}
+.Hey{
+  transform: translate(500px,480px);
+  font-size: 30px;
+  right: 30px;
+  display: inline-flex;
+  width: 600px;
+  height: 280px;
+}
+.Chef {
+  transform: translate(500px,480px);
+  font-size: 30px;
+  right: 30px;
+  display: inline-flex;
+  width: 600px;
+  height: 280px;
+}
+.Rep {
+  transform: translate(650px,-50px);
+  color: black;
+}
+.swiper .swiper-button-prev, .swiper .swiper-button-next{
+  transform: translate(50px,-250px);
+}
+.mass {
+  background-color: #F58840;
+  height: 600px;
+}
+.praise {
+  transform: translate(-300px,100px);
+  font-size: 50px;
+  font-family: 'Lobster Two', cursive;
+  color: white;
+}
+.search-fan {
+  transform: translate(600px,250px);
+}
+.search-rich {
+  width: 250px;
+  border-radius: 30px;
+  padding: 15px 20px;
+  font-weight: bold;
+  font-size: 25px;
+  background-color: blue;
+  border: none;
+  filter: brightness(200%);
+}
